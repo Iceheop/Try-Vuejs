@@ -10,4 +10,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #0C0C0C;
+  color: #ffffff;
 }
